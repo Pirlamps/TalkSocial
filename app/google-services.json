@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "653970356151",
+    "firebase_url": "https://techtalks-8dd36.firebaseio.com",
+    "project_id": "techtalks-8dd36",
+    "storage_bucket": "techtalks-8dd36.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:653970356151:android:768f02f8a4cf3987",
+        "android_client_info": {
+          "package_name": "br.com.talksocial"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "653970356151-0cdei08r2uqnfknkr1lu90l7ff1dvpnp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.com.talksocial",
+            "certificate_hash": "65b562b8447523ae860f3c00f45f5025563e8e83"
+          }
+        },
+        {
+          "client_id": "653970356151-cjjr6mc27utfok5d90pdciuc627inds7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLjdQmExbGgNJ8W0V2RLQE6HqkuGhDtwA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "653970356151-cjjr6mc27utfok5d90pdciuc627inds7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
